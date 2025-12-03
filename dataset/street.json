@@ -1,0 +1,242 @@
+[
+    {
+       "eng": "Excuse me, how much does this cost?",
+       "tu": "anna, undek yeth apundu?",
+        "category":"street"
+    },
+    {
+       "eng": "Can you show me another color, please?",
+       "tu": "yenk bethe colour topavara please?",
+        "category":"street"
+    },
+    {
+       "eng": "Is this the final price or can you give a discount?",
+       "tu": "unduve final ah ath kammi malpuvara",
+        "category":"street"
+    },
+    {
+       "eng": "Do you take UPI or card payments?",
+       "tu": "mulu UPI dethonvara ath card dethonvara",
+        "category":"street"
+    },
+    {
+       "eng": "Can you pack this nicely?",
+       "tu": "unden onjji shok d pack malthudh korpara",
+        "category":"street"
+    },
+    {
+       "eng": "Is it made locally?",
+       "tu": "undu uruda ne naa?",
+        "category":"street"
+    },
+    {
+       "eng": "Id like to buy some souvenirs",
+       "tu": "yenk kelav nenapu da kanike dethonere undu",
+        "category":"street"
+    },
+    {
+       "eng": "Do you have anything handmade?",
+       "tu": "kai rdh maldhian dala unda?",
+        "category":"street"
+    },
+    {
+       "eng": "Can you give me two of these?",
+       "tu": "yenk undu radd korpara ",
+        "category":"street"
+    },
+    {
+       "eng": "Is this fresh?",
+       "tu": "undu fresh unda?",
+        "category":"street"
+    },
+    {
+       "eng": "How much for one kilo of mangoes?",
+       "tu": "onjji kg kukku g yeth?",
+        "category":"street"
+    },
+    {
+       "eng": "Are these bananas from Mangalore?",
+       "tu": "undu parndh kudla rdh ya?",
+        "category":"street"
+    },
+    {
+       "eng": "Can I taste a small piece?",
+       "tu": "yan yelya thundu dethonoli ya?",
+        "category":"street"
+    },
+    {
+       "eng": "Do you sell tender coconuts here?",
+       "tu": "nikul mulpa bonda maruvara?",
+        "category":"street"
+    },
+    {
+       "eng": "Is this spice very strong?",
+       "tu": "undu masth khara unda?",
+        "category":"street"
+    },
+    {
+       "eng": "Can you clean and cut the fruit for me?",
+       "tu": "yenk undu phala n clean malth cut malthudh korpara?",
+        "category":"street"
+    },
+    {
+       "eng": "Whats the local name for this vegetable?",
+       "tu": "undu tharakari g urudu dada ndh leppuver?",
+        "category":"street"
+    },
+    {
+       "eng": "Is this jaggery or sugar?",
+       "tu": "undu bella na sakkere na?",
+        "category":"street"
+    },
+    {
+       "eng": "Do you have snacks like banana chips or chakuli?",
+       "tu": "parndh dha chips ejjinda chakkuli dala unda nikleda?",
+        "category":"street"
+    },
+    {
+       "eng": "How long will this stay fresh?",
+       "tu": "undu yeth samaya yedde barpundu?",
+        "category":"street"
+    },
+    {
+       "eng": "How do I get to the temple from here?",
+       "tu": "mulpardh devasthanag yencha povoli?",
+        "category":"street"
+    },
+    {
+       "eng": "Which way is the beach?",
+       "tu": "kadal g popuna marga ovu?",
+        "category":"street"
+    },
+    {
+       "eng": "Is the railway station far from here?",
+       "tu": "mulpardh railway station dura unda?",
+        "category":"street"
+    },
+    {
+       "eng": "Can I walk there or do I need an auto?",
+       "tu": "yenk ade nadapoli ya ath rickshaw d povod apunda?",
+        "category":"street"
+    },
+    {
+       "eng": "How much does an auto to Udupi bus stand cost?",
+       "tu": "udupi bus stand g auto d popinanda yeth apundu?",
+        "category":"street"
+    },
+    {
+       "eng": "Can you write the name in Kannada for me?",
+       "tu": "yenk undu pudar n kannada d baredh korpara?",
+        "category":"street"
+    },
+    {
+       "eng": "Where can I find public restrooms?",
+       "tu": "mulpa sarvajanika shouchalaya undu?",
+        "category":"street"
+    },
+    {
+       "eng": "Is this the road to the market?",
+       "tu": "undu road market g popunda?",
+        "category":"street"
+    },
+    {
+       "eng": "Thank you for showing me the way!",
+       "tu": "yenk saadhi topayinek solmelu!",
+        "category":"street"
+    },
+    {
+       "eng": "Can you take me to the main market?",
+       "tu": "yenan market lethondh popara",
+        "category":"street"
+    },
+    {
+       "eng": "How much will you charge?",
+       "tu": "",
+        "category":"street"
+    },
+    {
+       "eng": "Can you turn on the meter, please?",
+       "tu": "meter padvara, please?",
+        "category":"street"
+    },
+    {
+       "eng": "Please stop here",
+       "tu": "mulpa unthale please",
+        "category":"street"
+    },
+    {
+       "eng": "Ill get down at the next junction",
+       "tu": "yan next junction d jappuvee",
+        "category":"street"
+    },
+    {
+       "eng": "Can you wait for 10 minutes?",
+       "tu": "10 nimisha unthuvara",
+        "category":"street"
+    },
+    {
+       "eng": "Do you know the way to Malpe Beach?",
+       "tu": "Malpe beach g popina saadhi gottunde?",
+        "category":"street"
+    },
+    {
+       "eng": "Please drive slowly",
+       "tu": "onthe mella gadi konopara",
+        "category":"street"
+    },
+    {
+       "eng": "Thats okay, keep the change",
+       "tu": "mallejji, change pathonle",
+        "category":"street"
+    },
+    {
+       "eng": "Thank you for the ride!",
+       "tu": "ede mutta budnek solmelu",
+        "category":"street"
+    },
+    {
+       "eng": "This place is so lively!",
+       "tu": "ee jaga masth kushi apundu",
+        "category":"street"
+    },
+    {
+       "eng": "The people here are very friendly",
+       "tu": "mulpada janakul masth yedde uller",
+        "category":"street"
+    },
+    {
+       "eng": "What is this festival about?",
+       "tu": "undu oitha jathre",
+        "category":"street"
+    },
+    {
+       "eng": "Can I take a photo of this stall?",
+       "tu": "undu angadi da photo deppoli ya?",
+        "category":"street"
+    },
+    {
+       "eng": "Where can I buy traditional clothes?",
+       "tu": "yenk sampradayika angi olu dethonoli",
+        "category":"street"
+    },
+    {
+       "eng": "Is there a pharmacy nearby?",
+       "tu": "kaithal d olpa la medical unda?",
+        "category":"street"
+    },
+    {
+       "eng": "Do you know any good restaurant here?",
+       "tu": "ereg mulpa ovula yedde hotel gottunda?",
+        "category":"street"
+    },
+    {
+       "eng": "The weather is really nice today",
+       "tu": "enitha havamana masth yedde undu",
+        "category":"street"
+    },
+    {
+       "eng": "Im just walking around to explore.",
+       "tu": "yan pokkade thirgondhulle",
+        "category":"street"
+    }
+] 

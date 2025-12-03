@@ -1,0 +1,16 @@
+[
+  {"en": "Father", "tu": "Ammer", "category": "family"},
+  {"en": "Mother", "tu": "Appe", "category": "family"},
+  {"en": "Husband", "tu": "KanDane", "category": "family"},
+  {"en": "Wife", "tu": "BuDedi", "category": "family"},
+  {"en": "Son", "tu": "Mage", "category": "family"},
+  {"en": "Daughter", "tu": "Magal", "category": "family"},
+  {"en": "Grandfather", "tu": "Ajja", "category": "family"},
+  {"en": "Grandmother", "tu": "Ajji", "category": "family"},
+  {"en": "Brother", "tu": "Anne", "category": "family"},
+  {"en": "Sister", "tu": "Akka", "category": "family"},
+  {"en": "Uncle", "tu": "Maamu", "category": "family"},
+  {"en": "Aunty", "tu": "DoDamma", "category": "family"},
+  {"en": "Father-in-law", "tu": "Maamu", "category": "family"},
+  {"en": "Mother-in-law", "tu": "Maami", "category": "family"}
+]

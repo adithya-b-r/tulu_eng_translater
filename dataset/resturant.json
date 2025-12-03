@@ -1,0 +1,1729 @@
+ 
+ [
+    {
+       "eng": " Hello! Is there a table for two?",
+       "tu": "namaskara! Radd janank kullere table unde",
+        "category":"resturant"
+    },
+   {
+       "eng": "Can we sit near the window, please?",
+       "tu": "yenkleg window da kaithal kulloli yaa, please?",
+        "category":"resturant"
+    },
+   {
+       "eng": "Do you have a non-AC section?",
+       "tu": "AC ejjandhina room unde?",
+        "category":"resturant"
+    },
+    {
+       "eng": "Is this restaurant vegetarian or non-vegetarian?",
+       "tu": "undu resturant vegetarian",
+       "category":"resturant"
+    },
+    {
+       "eng": "can we see the menu please?",
+       "tu": "chur menu topavara please?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Do you serve seafood here?",
+       "tu": "mulpa meen pura thikkunde?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Is it self-service or table service?",
+       "tu": "mulpa namane order malpoda ath nikul order kenare barpara",
+       "category":"resturant"
+    },
+    {
+       "eng": "What time do you close?",
+       "tu": "yeth ganteg bandh malpuvar?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Is this seat taken?",
+       "tu": "undu seat d yerla kulluvera?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can you please clean the table?",
+       "tu": "undu table clean malpoli yaa?",
+       "category":"resturant"
+    },
+    {
+       "eng": "What do you recommend that’s local or traditional?",
+       "tu": "ov yedde undu local ah ath traditinal ah?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Do you have any Tulu-style dishes?",
+       "tu": "ovla tu style da adige unde?",
+       "category":"resturant"
+    },
+    {
+       "eng": "What is today’s special?",
+       "tu": "enitha special dade?",
+       "category":"resturant"
+    },
+    {
+       "eng": "I’d like to try something spicy but not too hot.",
+       "tu": "yan khara thinre try malpuve anda beccha borcchii",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can we get two plates of fish curry and rice?",
+       "tu": "yenkleg radd plate meen da kajipu la nuppu la korpara?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Is this dish made with coconut?",
+       "tu": "undu tharai rdh mandhina adige naa?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Does this contain meat or eggs?",
+       "tu": "undet maasa eppuna thetti eppuna?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can you make it less spicy, please?",
+       "tu": "onchur khara kammi malpuvara,please?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can I have it packed instead of served?",
+       "tu": "yenk unden serve malporchi pack malthudh korpara?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Do you serve idli, dosa, or neer dosa in the morning?",
+       "tu": "nikul kande idli, dosa, ejjinda neer dosa malth korpara?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Do you have fresh juice or tender coconut water?",
+       "tu": "ereda juice ejjinda bonda da neer unde?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can I get black coffee instead of milk coffee?",
+       "tu": "ynk coffee da badal kanna coffee kanpara?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Is the water filtered or bottled?",
+       "tu": "undu neer filter da na bottle da na?",
+       "category":"resturant"
+    },
+    {
+       "eng": "One cup of tea without sugar, please",
+       "tu": "onjji cup cha sekkere ejjandhe,please",
+       "category":"resturant"
+    },
+    {
+       "eng": "Do you have snacks like banana chips or goli baje?",
+       "tu": "nikleda parndh da chips ejjinda goli baje danchina thinre dala unda?",
+       "category":"resturant"
+    },
+    {
+       "eng": "What exactly is kori rotti?",
+       "tu": "kori rotti panda dade?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Is this dish sweet or spicy?",
+       "tu": "undu cheepe unda khara unda?",
+       "category":"resturant"
+    },
+    {
+       "eng": "How big is the portion?",
+       "tu": "yeth malla barpundu?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can you explain what’s in this curry?",
+       "tu": "undu kajipu du dada undu panoli yaa?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Do you have vegetarian options?",
+       "tu": "veg d dala unde?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Everything tastes delicious!",
+       "tu": "pura item la masth shokundu!",
+       "category":"resturant"
+    },
+    {
+       "eng": "The food is too spicy for me—can I get some curd?",
+       "tu": "vanas masth khara athund yenk chur mosaru kanapara?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can we get some extra chutney?",
+       "tu": "extra chutney thikkuva?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can you bring some more water, please?",
+       "tu": "kuda onchur neer kanapara, please?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Excuse me, can we have spoons and napkins?",
+       "tu": "dhani,spoon boka onjji kuntu thikkuva?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can I have the bill, please?",
+       "tu": "bill korpara, please?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Do you accept cards or only cash?",
+       "tu": "mulpa card dethonvara ath kali cash ah?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can I pay through UPI or QR code?",
+       "tu": "UPI ejjinda QR code rdh kaas padoli ahh?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Please give me a printed bill",
+       "tu": "ynk print mldhina bill korle",
+       "category":"resturant"
+    },
+    {
+       "eng": "Keep the change, thank you.",
+       "tu": "change eppad, solmelu",
+       "category":"resturant"
+    },
+    {
+       "eng": "The food was amazing, thank you!",
+       "tu": "vanas masth shokithnd, solmelu!",
+       "category":"resturant"
+    },
+    {
+       "eng": "We really enjoyed your hospitality",
+       "tu": "niklena sudarike masth kushi andd yenkleg",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can we take a photo here?",
+       "tu": "mulpa onjji photo deppoli yaa?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Is it okay if we give a small tip?",
+       "tu": "onjji yelya tip korpa bejar ejjathee?",
+       "category":"resturant"
+    },
+    {
+       "eng": "We’ll definitely visit again.",
+       "tu": "nana ora kanditha barpa",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can you suggest a good place nearby for dessert?",
+       "tu": "ice-cream thinre aapina kaithal d onjji yedde jaga panpara?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Where can we get local sweets like halwa or patrode?",
+       "tu": "halwa ejjinda pathrode danchina sweet olp thikku?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Can you pack some food for takeaway?",
+       "tu": "vanas konoyare chur pack malpuvaraa?",
+       "category":"resturant"
+    },
+    {
+       "eng": "Thank you so much for your service",
+       "tu": "niklena sudarikeg solmelu",
+       "category":"resturant"
+    },
+    {
+       "eng": "Bye! Have a nice day!",
+       "tu": "Bye! enitha dina yedde eppad!",
+       "category":"resturant"
+    },
+   {
+   "eng": "Can we get a table for four?",
+   "tu": "naal janak kullare table thikkuva?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have a waiting list?",
+   "tu": "waiting list unde nikleda?",
+   "category":"resturant"
+},
+{
+   "eng": "How long do we need to wait?",
+   "tu": "yeth porthu kapodu apundu?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you reserve a table for us?",
+   "tu": "yenkleg table deth deepara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is there outdoor seating?",
+   "tu": "pidai kullare jaga unda?",
+   "category":"resturant"
+},
+{
+   "eng": "Can we get a table in the shade?",
+   "tu": "nirel d table thikkuva?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this restaurant family friendly?",
+   "tu": "family daklen lethondhu baroli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have a high chair for kids?",
+   "tu": "jokuleg udda da chair unda? ",
+   "category":"resturant"
+},
+{
+   "eng": "Can we join two tables together?",
+   "tu": "radd table n ottug malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this seat available?",
+   "tu": "undu seat kali unda?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I sit here?",
+   "tu": "mulpa kulloli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you please clean this table?",
+   "tu": "undu table er clean malpuvara please?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have tissues/napkins?",
+   "tu": "erda tissues ejjinda towel unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I see the menu once again?",
+   "tu": "yenk menu kudora thuvoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this dish available right now?",
+   "tu": "undu dish ette unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have a buffet?",
+   "tu": "nikleda baphe unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this self service or table service?",
+   "tu": "undu namane dethonare na ath balasere barpera?",
+   "category":"resturant"
+},
+{
+   "eng": "What time does breakfast end?",
+   "tu": "cha yeth ganteg mugyunu?",
+   "category":"resturant"
+},
+{
+   "eng": "What time does lunch start?",
+   "tu": "vanas yeth ganteg satrt?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have evening snacks?",
+   "tu": "nikleda baiyya da thindi unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve dinner?",
+   "tu": "nikul vanas balasuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this dish sweet?",
+   "tu": "undu dish cheepe unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this dish sour?",
+   "tu": "undu dish puli unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Does this contain peanuts?",
+   "tu": "undet kadle unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Does this contain dairy?",
+   "tu": "undet dairy pardhnde?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this gluten free?",
+   "tu": "undu antujji athee?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this vegan?",
+   "tu": "undu sasyhari athee?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I have extra gravy?",
+   "tu": "yenk extra gasi thikkuva?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I have extra curry?",
+   "tu": "yenk extra kajipu thikkuva?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I have extra rice?",
+   "tu": "yenk extra nuppu thikkuva?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I have extra roti?",
+   "tu": "yenk extra roti thikkuva?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I have extra buttermilk?",
+   "tu": "yenk extra majjige thikkuva?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve curd?",
+   "tu": "nikul mosaru balasuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I have plain curd?",
+   "tu": "yenk kali mosaru thikkuva? ",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve curd rice?",
+   "tu": "nikul mosaranna balasuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve sambar rice?",
+   "tu": "nuppu la sambar la balasuvara",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve rasam?",
+   "tu": "rasam balasuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have chapati?",
+   "tu": "nikleda chapati unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have parota?",
+   "tu": "erda parota unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this Tulu cuisine?",
+   "tu": "undu tu ta tenas ah?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you suggest a local dish?",
+   "tu": "er onjji local dish panpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is there a kids portion size?",
+   "tu": "jokulna da portion ",
+   "category":"resturant"
+},
+{
+   "eng": "Can you pack leftovers?",
+   "tu": "oridhina pack malth korpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Please bring cutlery.",
+   "tu": "murere kanth korpara please",
+   "category":"resturant"
+},
+{
+   "eng": "Can we get steel plates?",
+   "tu": "steel da plate kanth korpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you serve it hot?",
+   "tu": "beccha ne balasuvara? ",
+   "category":"resturant"
+},
+{
+   "eng": "Please make it without onions.",
+   "tu": "aven neerulli padandhe malpuvara please? ",
+   "category":"resturant"
+},
+{
+   "eng": "Please make it without garlic.",
+   "tu": "aven belulli padandhe malpuvara please? ",
+   "category":"resturant"
+},
+{
+   "eng": "Please make it without oil.",
+   "tu": "aven yenne padandhe malpuvara please? ",
+   "category":"resturant"
+},
+{
+   "eng": "Can you make it quickly?",
+   "tu": "ereg chur bega malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give us some water?",
+   "tu": "yenkleg chur neer korpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have hot water?",
+   "tu": "ereda beccha neer unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have cold water?",
+   "tu": "ereda cold neer unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give bottled water?",
+   "tu": "bottle da neer korpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is the water filtered?",
+   "tu": "undu neer filter athnda?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you add ice, please?",
+   "tu": "ice paduvara, please?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve soda?",
+   "tu": "soda balasuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have fresh juice?",
+   "tu": "fresh juice unde erda?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have tender coconut water?",
+   "tu": "bonda da neer unde ereda?",
+   "category":"resturant"
+},
+{
+   "eng": "Is there sugar in this drink?",
+   "tu": "undu drink d sakkare unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you make it without sugar?",
+   "tu": "ereg aven sakkare padandhe malpere apunde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve buttermilk?",
+   "tu": "er majjige balasuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this spicy?",
+   "tu": "undu khara unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you make it less spicy?",
+   "tu": "aik khara kammi malpuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you make it more spicy?",
+   "tu": "aik khara jasthii malpuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have chutney?",
+   "tu": "ereda chutney unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give extra chutney?",
+   "tu": "ereg extra chutney koroli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give extra sambar?",
+   "tu": "ereg extra sambar koroli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have pickles?",
+   "tu": "ereda uppad unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give extra pickles?",
+   "tu": "ereg extra uppad koroli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "What desserts do you have?",
+   "tu": "dade desserts undu ereda?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have ice cream?",
+   "tu": "ereda icecream unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have payasam?",
+   "tu": "ereda paysa unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have gulab jamun?",
+   "tu": "ereda gulab jamun unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have fruit salad?",
+   "tu": "erda fruit salad unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give a spoon?",
+   "tu": "chamcha korpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give a fork?",
+   "tu": "ereg fork koroli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give a knife?",
+   "tu": "ereg bisathi koroli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have straws?",
+   "tu": "straw unde nikleda?",
+   "category":"resturant"
+},
+{
+   "eng": "Please bring tissues.",
+   "tu": "tissues kanapara please",
+   "category":"resturant"
+},
+{
+   "eng": "Is takeaway available?",
+   "tu": "pathondh povoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you deliver to home?",
+   "tu": "nikul ellag kanth korpara",
+   "category":"resturant"
+},
+{
+   "eng": "Do you take online orders?",
+   "tu": "online d order malthunda dethonara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you reduce oil in this dish?",
+   "tu": "undu dish d yenne kammi malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you avoid butter?",
+   "tu": "benne padocchi",
+   "category":"resturant"
+},
+{
+   "eng": "Can you avoid cheese?",
+   "tu": "cheese padocchi",
+   "category":"resturant"
+},
+{
+   "eng": "Is this made fresh?",
+   "tu": "undu fresh maldhina?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this frozen food?",
+   "tu": "undu cold food ah?",
+   "category":"resturant"
+},
+{
+   "eng": "How big is the portion?",
+   "tu": "yeth nalla portion undu",
+   "category":"resturant"
+},
+{
+   "eng": "Is this enough for two?",
+   "tu": "undu radd janak yavunda?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you split the bill?",
+   "tu": "bill n arda malpuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you accept credit cards?",
+   "tu": "credit card dethonuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you accept UPI?",
+   "tu": "UPI dethonuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is cash accepted?",
+   "tu": "cash dethonuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have change for cash?",
+   "tu": "cash g change unde ereda?",
+   "category":"resturant"
+},
+{
+   "eng": "Can we pay later?",
+   "tu": "yenkul boka pay malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Where is the handwash area?",
+   "tu": "kai dekkhuna jaga olpa?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have a restroom?",
+   "tu": "mulpa restroom unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Where is the restroom?",
+   "tu": "restroom olpa undu?",
+   "category":"resturant"
+},
+{
+   "eng": "Is parking available?",
+   "tu": "parking unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can we sit outside?",
+   "tu": "yenkleg pidai kullloli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Can we sit inside?",
+   "tu": "yenkleg ulai kuloli yaa?",
+   "category":"resturant"
+},
+{
+   "eng": "Is there an air-conditioned area?",
+   "tu": "a/c pardhina jaga unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have a fan table?",
+   "tu": "fan da table unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this table reserved?",
+   "tu": "undu table reserve athnde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you clean the table?",
+   "tu": "ereg table clean malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you wipe the table?",
+   "tu": "ereg table occholi yaa?",
+   "category":"resturant"
+},
+{
+   "eng": "Can we change the table?",
+   "tu": "yenkul table change malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this table available?",
+   "tu": "undu table kali unda?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you bring the menu card?",
+   "tu": "menu card kanapara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give a kid's menu?",
+   "tu": "jokulna menu korpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have high chair for kids?",
+   "tu": "jokuleg udda da chair unda? ",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have baby food?",
+   "tu": "nikleda joklena vanas unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have porridge?",
+   "tu": "nikleda ganji unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Please suggest a mild dish.",
+   "tu": "",
+   "category":"resturant"
+},
+{
+   "eng": "Please suggest something spicy",
+   "tu": "khara da ovula panpara please",
+   "category":"resturant"
+},
+{
+   "eng": "Please recommend your best dish",
+   "tu": "niklena best dish panpara",
+   "category":"resturant"
+},
+{
+   "eng": "Is this dish sweet?",
+   "tu": "undu dish cheepe unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you make it without onion?",
+   "tu": "aven neerulli padandhe malpuvara? ",
+   "category":"resturant"
+},
+{
+   "eng": "Can you make it without garlic?",
+   "tu": "aven belulli padandhe malpuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this dish vegetarian?",
+   "tu": "undu tharakari athee?",
+   "category":"resturant"
+},
+{
+   "eng": "Is this dish non-vegetarian?",
+   "tu": "undu kori da ne?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you make it vegan?",
+   "tu": "ereg aven tharakari da malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you use ghee in this?",
+   "tu": "nikul thuppa paduvara nek?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you use coconut oil?",
+   "tu": "nikul tharai da yenne paduvara nek",
+   "category":"resturant"
+},
+{
+   "eng": "Can you make it without oil?",
+   "tu": "aven yenne padandhe malpuvara ? ",
+   "category":"resturant"
+},
+{
+   "eng": "I am allergic to peanuts",
+   "tu": "yenk kadle panda allergy",
+   "category":"resturant"
+},
+{
+   "eng": "I am allergic to milk.",
+   "tu": "yenk per panda allergy",
+   "category":"resturant"
+},
+{
+   "eng": "I am allergic to gluten.",
+   "tu": "yenk antt panda allergy",
+   "category":"resturant"
+},
+{
+   "eng": "Does this contain eggs?",
+   "tu": "undet thetti unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Does this contain nuts?",
+   "tu": "undet beeja unde?",
+   "category":"resturant"
+},
+{
+   "eng": "How long will it take to serve?",
+   "tu": "yeth porthu apundu balasere?",
+   "category":"resturant"
+},
+{
+   "eng": "Is it ready?",
+   "tu": "ready unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Please serve one by one",
+   "tu": "onjji onjje balasuvara please",
+   "category":"resturant"
+},
+{
+   "eng": "Please serve everything together",
+   "tu": "mathenla ottige balasuvara please",
+   "category":"resturant"
+},
+{
+   "eng": "Please pack the leftovers",
+   "tu": "oridhina pack malpuvara please",
+   "category":"resturant"
+},
+{
+   "eng": "Can you heat this again?",
+   "tu": "unden kuda beccha malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you cool this drink?",
+   "tu": "undu drink chur chappe malpuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "It's too salty",
+   "tu": "undu masth uppu athnd",
+   "category":"resturant"
+},
+{
+   "eng": "It's too sweet",
+   "tu": "undu masth cheepe undu",
+   "category":"resturant"
+},
+{
+   "eng": "It's too spicy",
+   "tu": "undu masth khara undu",
+   "category":"resturant"
+},
+{
+   "eng": "This tastes very good",
+   "tu": " undetha taste masth yedde undu",
+   "category":"resturant"
+},
+{
+   "eng": "This tastes amazing!",
+   "tu": "undetha taste shokund!S",
+   "category":"resturant"
+},
+{
+   "eng": "The food is fresh and tasty",
+   "tu": "vanas fresh boka tasty adh undu",
+   "category":"resturant"
+},
+{
+   "eng": "Thank you for the food",
+   "tu": "vanas g solmelu",
+   "category":"resturant"
+},
+{
+   "eng": "We enjoyed the meal",
+   "tu": "vanas enjoy maltha",
+   "category":"resturant"
+},
+{
+   "eng": "We will surely come again",
+   "tu": "kanditha kuda ora barpa",
+   "category":"resturant"
+},
+{
+   "eng": "See you again soon",
+   "tu": "nanora bega d thikga",
+   "category":"resturant"
+},
+{
+   "eng": "Have a nice day!",
+   "tu": "dina yedde eppad",
+   "category":"resturant"
+},
+{
+   "eng": "Can you bring the bill?",
+   "tu": "bill kanapara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give the bill separately?",
+   "tu": "bill bethe bethe korpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can we split the bill among us?",
+   "tu": "namma ulai de bill arda malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have a QR code for payment?",
+   "tu": "kaas kattere QR code unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I scan and pay?",
+   "tu": "yan scan malth pay malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "I will pay by card",
+   "tu": "yan card dh pay malpuve",
+   "category":"resturant"
+},
+{
+   "eng": "I will pay by cash.",
+   "tu": "yan cash dh pay malpuve",
+   "category":"resturant"
+},
+{
+   "eng": "Can I pay by UPI?",
+   "tu": "UPI dh pay malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you accept Google Pay?",
+   "tu": "google pay dethonara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you accept PhonePe?",
+   "tu": "PhonePe dethonvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you accept Paytm?",
+   "tu": "Paytm dethonvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is service charge included?",
+   "tu": "service charge la serpadhara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I see the bill details?",
+   "tu": "yan bill da details thuvoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "There is a mistake in the bill",
+   "tu": "bill d dala mistake athnda",
+   "category":"resturant"
+},
+{
+   "eng": "Can you correct the bill?",
+   "tu": "bill n sari malpuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is tipping allowed here?",
+   "tu": "mulpa tip koroli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "Keep the change.",
+   "tu": "change deevonle",
+   "category":"resturant"
+},
+{
+   "eng": "Can you give me a receipt?",
+   "tu": "yenk receipt korpara?",
+   "category":"resturant"
+},
+{
+   "eng": "Is GST included?",
+   "tu": "GST serpadhara?",
+   "category":"resturant"
+},
+{
+   "eng": "Please take the payment.",
+   "tu": "please payment dethonle",
+   "category":"resturant"
+},
+{
+   "eng": "Can you pack this item?",
+   "tu": "undu items pack malpuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "We want parcel food",
+   "tu": "yenkleg ellag konoyare vanas bodu",
+   "category":"resturant"
+},
+{
+   "eng": "How long for parcel?",
+   "tu": "yeth porthu apund parcel g?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you charge extra for packing?",
+   "tu": "pack malpere extra kaas dethonvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you deliver to our hotel?",
+   "tu": "yenklena hotel g deliver malpuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have catering service?",
+   "tu": "catering da service unde niklena?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you take party orders?",
+   "tu": "party orders pura dethonvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Can I book a table?",
+   "tu": "yan table book malpoli ya?",
+   "category":"resturant"
+},
+{
+   "eng": "I need a table for five",
+   "tu": "yenk ain janak table bodu",
+   "category":"resturant"
+},
+{
+   "eng": "Is there a waiting time?",
+   "tu": "kapere time unde?",
+   "category":"resturant"
+},
+{
+   "eng": "How many minutes do we wait?",
+   "tu": "yeth nimisha nama kapodu?",
+   "category":"resturant"
+},
+{
+   "eng": "Can you call us when the table is ready?",
+   "tu": "table ready anaga naman leppuvara?",
+   "category":"resturant"
+},
+{
+   "eng": "Where can we wait?",
+   "tu": "yenkul olpa kapodu?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have outdoor seating?",
+   "tu": "nikleda pidai kullere jaga unda?",
+   "category":"resturant"
+},
+{
+   "eng": "Is there a rooftop dining area?",
+   "tu": "atta d vanas malpere jaga unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have buffet?",
+   "tu": "nikleda baphe unde?",
+   "category":"resturant"
+},
+{
+   "eng": "What time does the buffet start?",
+   "tu": "baphe yeth ganteg suru apund?",
+   "category":"resturant"
+},
+{
+   "eng": "Is breakfast available?",
+   "tu": "cha thikkunde?",
+   "category":"resturant"
+},
+{
+   "eng": "What time do you serve breakfast?",
+   "tu": "yeth ganteg cha thindi korpini nikul?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve lunch now?",
+   "tu": "nikul vanas korpara ette?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve dinner now?",
+   "tu": "nikul vanas korpara ette?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have snacks?",
+   "tu": "nikleda thinere dala unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have tea and coffee?",
+   "tu": "nikleda cha ejjinda coffee unde?",
+   "category":"resturant"
+},
+{
+   "eng": "One tea please.",
+   "tu": "onjji cha please",
+   "category":"resturant"
+},
+{
+   "eng": "One coffee please.",
+   "tu": "onjji coffee please",
+   "category":"resturant"
+},
+{
+   "eng": "Do you have boost/horlicks?",
+   "tu": "nikleda boost ejjinda horlicks unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve South Indian meals?",
+   "tu": "nikleda south da vanas unde?",
+   "category":"resturant"
+},
+{
+   "eng": "Do you serve North Indian meals?",
+   "tu": "nikleda north da vanas unde?",
+   "category":"resturant"
+},
+{
+  "eng": "Can this dish be made oil-free?",
+  "tu": "undu dish n yenne padandhe malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you have a low-spice version of this?",
+  "tu": "nikleda undu kammi khara d unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is this dish sour or sweet?",
+  "tu": "undu dish kaipe na cheepe na?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I have extra lemon slices?",
+  "tu": "extra lemon da thundu korpara?  ",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you remove the seeds from the chillies?",
+  "tu": "munchi d eppuna beeja deppoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is this meal available as a combo?",
+  "tu": "undu vanas combo da leka thikkunde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Does this dish come with starters?",
+  "tu": "undu dish starters da ottige barpunde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can we order starters first and decide the main later?",
+  "tu": "yenkul suruk starter dethondh main boka order malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you offer a sampler platter?",
+  "tu": "nikul sample g korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Does this thali include refills?",
+  "tu": "undu thali g kudora padre bodithnda kenoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you refill the sambar and chutney?",
+  "tu": "sambar boka chutney kuda ora  korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is the water filtered or bottled?",
+  "tu": "undu neer filter da na bottle da na?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you offer mineral water for drinking?",
+  "tu": "pariyare mineral neer thikkuva?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you refill the water jug?",
+  "tu": "neer da jug kuda fill malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can this dish be served without onions?",
+  "tu": "undu dish n neerulli padandhe balasuvara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you add extra coriander leaves?",
+  "tu": "ereg aik extra kottambari soppu padoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you make it without garlic?",
+  "tu": "ereg aven belluli padandhe malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is the yogurt homemade or packaged?",
+  "tu": "undu yogurt ellad maldhina na ath pack da na?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I get cold curd instead of room temperature?",
+  "tu": "yenk chappe kojapu rdh cold kojapu korle?  ",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I get extra curd with the meal?",
+  "tu": "yenk extra kojapu thikkuva meal da ottige?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve buttermilk with the meal?",
+  "tu": "nikul majjige la korpara vanas da ottige?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you give sweet buttermilk instead of salted?",
+  "tu": "yenk cheepeda majjige koroli ya khara da badal?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you have any millet-based dishes?",
+  "tu": "nikleda raagi da ovula dish unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you use organic ingredients?",
+  "tu": "nikleda samayava saman unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is your paneer fresh and soft?",
+  "tu": "niklena paneer fresh boka soft unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I get an extra slice of lime?",
+  "tu": "yenk limbe puli da kudonjji thundu thikkuva?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is there a kids-friendly portion of this meal?",
+  "tu": "undet jokuleg apina vanas unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you store leftovers safely if we step out briefly?",
+  "tu": "niukl oridhina deth deepara nama mini pidai poyada?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can we order half a portion of this dish?",
+  "tu": "undu dish da arda portion order malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can we combine two half portions?",
+  "tu": "radd arda portion ottige malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is there a lighter portion option?",
+  "tu": "light adh eppuna vanas unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you give freshly chopped onions?",
+  "tu": "fresh adh cut maldhina neerulli korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you give the dessert warm instead of cold?",
+  "tu": "cold da badal warm dessert koroli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve hot jalebi or chilled?",
+  "tu": "nikul beccha jalebi korpara ath chappe na?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you sprinkle some cinnamon on top?",
+  "tu": "mith chur chekke paduvara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I get plain rice instead of flavored rice?",
+  "tu": "yenk flavour da nuppu dh plain nuppu thikkuva",
+  "category": "restaurant"
+},
+{
+  "eng": "Is the biryani cooked?",
+  "tu": "biriyani beipadhara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you have clay-pot cooked dishes?",
+  "tu": "nikleda mann da bajan d maldhina dish unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is your coffee filter-brewed?",
+  "tu": "niklena coffee filter da na?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve jaggery coffee?",
+  "tu": "nikul bella da coffee korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you adjust the sweetness in the juice?",
+  "tu": "ereg juice d cheepe n adjust malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you add extra ice cubes?",
+  "tu": "ereg extra ice cubes padoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you have seasonal fruit juices?",
+  "tu": "ereda seasona da fruit juices unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve fresh tender coconut water?",
+  "tu": "niul fresh bonda da neer korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is this dish authentic to this region?",
+  "tu": "undu dish authentic adh unde undu jaaga g?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you have a Tulu-style traditional meal?",
+  "tu": "nikleda tu style da traditional vanas unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Does this dish contain tamarind or kokum?",
+  "tu": "undu dish d puli unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you serve the food in traditional style plates?",
+  "tu": "nikul traditional style da plate d vanas balasuna?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you offer a tasting menu for first-time visitors?",
+  "tu": "first time barpinakleg taste pndh menu korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I have a light snack while waiting for my meal?",
+  "tu": "yenna vanas g kapuna yenk yelya thinre thinoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is there a waiting list I should add my name to?",
+  "tu": "waiting list unde yan yenna pudar la serpavoda?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you notify me when a table is free?",
+  "tu": "table free anaga yenk panpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you take table reservations for weekends?",
+  "tu": "weekend g table reservation dethonvara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I book a private dining area?",
+  "tu": "yan private adh vanas malpere jaga book malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you have outdoor seating available?",
+  "tu": "pidai d kullere apunde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is the outdoor seating covered in case it rains?",
+  "tu": "onjji vele barsa bathnda pidai d cover maldhara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I sit near the window?",
+  "tu": "yenk kandi da kaithal kulloli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is there a place to store my bags safely?",
+  "tu": "yenna bags pura jagrathe d deeyare jaga unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you provide baby chairs?",
+  "tu": "nikul jokulna chairs korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you have a separate menu for kids?",
+  "tu": "jokuleg pandh bethene menu unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I have mashed food for my baby?",
+  "tu": "yenk nakke maldhina nuppu thikkuva yenna bhaleg korre?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is there a play area for children?",
+  "tu": "jokleg gobbere jaaga unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you reduce the portion size for this dish?",
+  "tu": "undu dish da portion size kammi malpuvara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is there a sharing plate charge?",
+  "tu": "share malthina plate g kaas padvara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you provide free drinking water?",
+  "tu": "nikul free g parpina neer korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I get a jug of warm water?",
+  "tu": "yenk jug d chappe neer thikkuva?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is your ice made from purified water?",
+  "tu": "erna ice yedde neer rdh  maldhina na?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can this dish be prepared without frying?",
+  "tu": "undu dush n fry malpandhe malpere apunde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is there an option to grill instead?",
+  "tu": "ejjinda grill malpere apunde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you serve me half rice and half roti?",
+  "tu": "yenk arda nuppu arda roti korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you offer millet rotis?",
+  "tu": "ragi da roti unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you make fresh chapati or pre-cooked ones?",
+  "tu": "nikul fresh chapati malpuna ath dumbe malth deedh eppuvara",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I order extra gravy without extra charge?",
+  "tu": "extra gasi extra kaas ejjandge order malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve steamed vegetables without seasoning?",
+  "tu": "beipadhina tharakari masala ejjandhe korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you add extra ghee on top?",
+  "tu": "extra thuppa mith d padoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you prepare this dish with coconut oil?",
+  "tu": "tharai da yenne pardh undu du=ish malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is jaggery water available here?",
+  "tu": "bella da neer thikkunde mulu?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve kokum drink?",
+  "tu": "kokum juice unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you prepare fresh lime soda without sugar?",
+  "tu": "sakkare padandhe fresh limbe da soda malpuvara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve tender coconut pudding?",
+  "tu": "bonda da pudding unde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I get a dessert without nuts?",
+  "tu": "beeja ejjandhina dessert thikkunde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I order a hot dessert instead of cold?",
+  "tu": "cold da badal beccha dessert thikkuva?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can we get freshly cut fruits instead of sweets?",
+  "tu": "sweet da badal fresh adh cut maldhina fruits thikkuvaa?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve dairy-free milk options?",
+  "tu": "dairy da atthandhina per unde? ",
+  "category": "restaurant"
+},
+{
+  "eng": "Is this lassi sweet or salted?",
+  "tu": "undu lassi cheepe unda uppu unda?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you make the lassi without butter on top?",
+  "tu": "benne mith d padandhe lassi malpuvara",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you serve flavored curd rice?",
+  "tu": "flavor da mosaranna thikkuva?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I get pickle without oil?",
+  "tu": "yenne ejjandhe uppad thikkuva?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can we get a smaller serving for tasting?",
+  "tu": "taste malpare chur korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you offer daily meal subscription service?",
+  "tu": "dinala vanas malpre apileka subscription thikkunde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I take a monthly meal plan?",
+  "tu": "thingol g vanas dethonoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you give food in tiffins if we bring them?",
+  "tu": "yenkul butthi kanthada ait katdh korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you pack this separately for takeaway?",
+  "tu": "unden konoyare bethe [ack malpuvara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you label the packed containers?",
+  "tu": "pack maldhinen label malth korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can you provide extra cutlery with the parcel?",
+  "tu": "parcel da ottuggu extra cut malpuna bisati korpara?",
+  "category": "restaurant"
+},
+{
+  "eng": "Is cash back available on digital payments?",
+  "tu": "mobile d pay malthunda chasback thikkunde?",
+  "category": "restaurant"
+},
+{
+  "eng": "Can I round off the bill and donate the balance?",
+  "tu": "bill n round off malpulee bka oridhina kaas dhaana malpoli ya?",
+  "category": "restaurant"
+},
+{
+  "eng": "Do you have a feedback form?",
+  "tu": "ereda feedback form unde?",
+  "category": "restaurant"
+}
+
+ ] 

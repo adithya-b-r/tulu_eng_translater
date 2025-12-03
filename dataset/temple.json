@@ -1,0 +1,253 @@
+[
+    {
+       "eng": "Excuse me, where is the entrance to the temple?",
+       "tu": "anna, devasthana g ulai popini olpardh?",
+        "category":"temple"
+    },
+    {
+       "eng": "Should we remove our footwear here?",
+       "tu": "yenkul yenklena chappal mulpa deppoda?",
+        "category":"temple"
+    },
+    {
+       "eng": "Where can I keep my shoes safely?",
+       "tu": "yan yenna shoes olpa jagrthe d deeyoli?",
+        "category":"temple"
+    },
+    {
+       "eng": "Is there a dress code to enter the temple?",
+       "tu": "devasthana da ulai povare ov angi padodu?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can foreigners or tourists enter the main sanctum?",
+       "tu": "pidai uru dakleg ejjinda thirgare baidhinaklg devasthana da garbagudi k povaoli ya?",
+        "category":"temple"
+    },
+    {
+       "eng": "What time does the temple open in the morning?",
+       "tu": "kande yeth ganteg devasthana open apund?",
+        "category":"temple"
+    },
+    {
+       "eng": "Is photography allowed inside the temple?",
+       "tu": "devasthana da ulai photo deppoli ya?",
+        "category":"temple"
+    },
+    {
+       "eng": "Do we need to buy an entry ticket?",
+       "tu": "pravesha ticket dethonare unda?",
+        "category":"temple"
+    },
+    {
+       "eng": "Where can I wash my legs before entering?",
+       "tu": "yenk yenna kar olu dekkoli?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can we take flowers or fruits inside?",
+       "tu": "poo parndh dala ulai pathondh povoli ya?",
+        "category":"temple"
+    },
+        {
+       "eng": "Where can I buy pooja items or flowers?",
+       "tu": "pooje g bodaina boka poo olpa dethonoli?",
+        "category":"temple"
+    },
+    {
+       "eng": "How much is the pooja ticket?",
+       "tu": "pooje da ticket g yeth?",
+        "category":"temple"
+    },
+    {
+       "eng": "Which counter should I go to for the special darshan?",
+       "tu": "vishesha darshana g ovu counter g povodu?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can I offer coconut or bananas here?",
+       "tu": "mulpa yenk tharai ejjinda parndh koroli ya?",
+        "category":"temple"
+    },
+    {
+       "eng": "Is there a queue for offering prayers?",
+       "tu": "kai mugyere line unthoda?",
+        "category":"temple"
+    },
+    {
+       "eng": "Where should I stand for darshan?",
+       "tu": "deverna darshana g olpa unthodu?",
+        "category":"temple"
+    },
+    {
+       "eng": "How long will it take for darshan now?",
+       "tu": "darshana anaga yeth porthu aavu?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can I get prasadam after the pooja?",
+       "tu": "yenk pooje aayi boka prasada thikkuva?",
+        "category":"temple"
+    },
+    {
+       "eng": "Is there a place to sit and meditate?",
+       "tu": "mulpa kuldh dhyana malpere jaga unde?",
+        "category":"temple"
+    },
+    {
+       "eng": "Where can I light the lamp?",
+       "tu": "yenk deepa olu potthavoli?",
+        "category":"temple"
+    },
+    {
+       "eng": "Who is the main deity of this temple?",
+       "tu": "devasthana da mukya dever yer?",
+        "category":"temple"
+    },
+    {
+       "eng": "What is the history of this temple?",
+       "tu": "undu devasthana da ethihasa dade?",
+        "category":"temple"
+    },
+    {
+       "eng": "When is the main festival celebrated?",
+       "tu": "multha jathre yepa?",
+        "category":"temple"
+    },
+    {
+       "eng": "What are the temple timings in the evening?",
+       "tu": "baiyya devasthana yeth gante rdh yeth gante mutta open eppundu?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can you tell me what ritual is happening now?",
+       "tu": "yenk dada smapradaya avondhundu ette panpara?",
+        "category":"temple"
+    },
+    {
+       "eng": "Is there a guide who can explain the temple details?",
+       "tu": "devasthana da bagge panpinakul yerla ullera?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can I see the temple chariot?",
+       "tu": "yenk devasthana da ther topavara?",
+        "category":"temple"
+    },
+    {
+       "eng": "Is this temple dedicated to Lord Shiva or Vishnu?",
+       "tu": "undu shiva na devasthana na ath vishnu na devasthana na?",
+        "category":"temple"
+    },
+    {
+       "eng": "Where can I see thrit thuvolie idol clearly?",
+       "tu": "yenk deveren olpa sarit thuvoli",
+        "category":"temple"
+    },
+    {
+       "eng": "Is the temple famous for any special offering?",
+       "tu": "undu devasthana oik vishesha adh undu?",
+        "category":"temple"
+    },
+     {
+       "eng": "Where is the prasadam counter?",
+       "tu": "prasada olpa korpini?",
+        "category":"temple"
+    },
+    {
+       "eng": "What is being served as prasadam today?",
+       "tu": "eni prasada g dada korondu ulle?r",
+        "category":"temple"
+    },
+    {
+       "eng": "Is there free food service here?",
+       "tu": "mulpa anna prasada free g korpera?",
+        "category":"temple"
+    },
+    {
+       "eng": "Where should I sit for the meal?",
+       "tu": "vanas g olpa kullod?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can I donate for the annadanam?",
+       "tu": "anna prasada g yenk dala dana koroli ya?",
+        "category":"temple"
+    },
+    {
+       "eng": "Is the food vegetarian?",
+       "tu": "vanas sasyahari ya?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can I take prasadam parcel for someone?",
+       "tu": "yan prasada n betheklg pathondh povoli ya?",
+        "category":"temple"
+    },
+    {
+       "eng": "Is there drinking water nearby?",
+       "tu": "mulpa kaithal d parpina neer olundu?",
+        "category":"temple"
+    },
+    {
+       "eng": "Where should I wash my hands after eating?",
+       "tu": "yn thindh yenna kai olpa dekkodu? ",
+        "category":"temple"
+    },
+    {
+       "eng": "Thank you, the prasadam was very nice",
+       "tu": "solmelu, prasada masth yedde ethund",
+        "category":"temple"
+    },
+     {
+       "eng": "The temple is so peaceful",
+       "tu": "devasthana masth shantha undu",
+        "category":"temple"
+    },
+    {
+       "eng": "The architecture is beautiful",
+       "tu": "vasthu shilpa matha porlu undu",
+        "category":"temple"
+    },
+    {
+       "eng": "Thank you for your guidance",
+       "tu": "erna margadarshana g solmelu",
+        "category":"temple"
+    },
+    {
+       "eng": "Can you please show me the way to the main deity?",
+       "tu": "yenk mukya devernade popina saadhi topavara",
+        "category":"temple"
+    },
+    {
+       "eng": "Is there a restroom nearby",
+       "tu": "kaithal dshouchalaya unde",
+        "category":"temple"
+    },
+    {
+       "eng": "Can we stay here for some time?",
+       "tu": "nama mulpa chur porthu eppugana?",
+        "category":"temple"
+    },
+    {
+       "eng": "Are there any nearby temples to visit?",
+       "tu": "mulpa kaithal d bethe ovula devasthana unda popina?",
+        "category":"temple"
+    },
+    {
+       "eng": "When does the evening aarti start?",
+       "tu": "baiyya da pooje yeth ganteg suru apini?",
+        "category":"temple"
+    },
+    {
+       "eng": "Can we offer a donation for the temple?",
+       "tu": "devasthana g kaas dhana malpoli ya?",
+        "category":"temple"
+    },
+    {
+       "eng": "Thank you so much, this was a wonderful experience",
+       "tu": "masth yedde anubhava andd, solmelu",
+        "category":"temple"
+    }
+]
+
