@@ -1,6 +1,3 @@
-Here's a simple **README.md** file for your Tulu Translator project:
-
-```markdown
 # 🌴 Tulu Translator
 
 A professional English to Tulu translation system with both simple lookup and neural network models.
